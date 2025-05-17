@@ -194,8 +194,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## Remerciements
 
-- Merci à tous les contributeurs qui ont aidé au développement
-- Remerciements spéciaux aux développeurs de Gradio, qui alimente notre interface
+- Remerciements spéciaux aux développeurs de Gradio, qui alimente mon interface
 - Reconnaissance aux créateurs des modèles de génération d'images que cet outil prend en charge
 
 ## Soutenir le Projet
