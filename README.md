@@ -1,8 +1,8 @@
-v cccccccfb# Optimiseur de Prompts IA
+# Optimiseur de Prompts IA
 
 L'Optimiseur de Prompts IA est une application puissante conçue pour améliorer et optimiser les prompts textuels pour les modèles de génération d'images IA. Cet outil aide les utilisateurs à créer des prompts plus efficaces qui produisent de meilleurs résultats avec des modèles comme SDXL, Stable Diffusion 1.5, Flux 1.0 dev et HiDream.
 
-![Interface de l'Optimiseur de Prompts IA]
+    ![Interface de l'Optimiseur de Prompts IA](https://private-user-images.githubusercontent.com/188101812/444799975-63c82d50-d7ba-485e-8647-5e24d92d4e24.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1MTE2MTksIm5iZiI6MTc0NzUxMTMxOSwicGF0aCI6Ii8xODgxMDE4MTIvNDQ0Nzk5OTc1LTYzYzgyZDUwLWQ3YmEtNDg1ZS04NjQ3LTVlMjRkOTJkNGUyNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxN1QxOTQ4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOTg3OTU1MGUyZTI2NWQ4MTJlODRkOWNiYWY1ODM1OGQzOWYyYTUzYjIzMmVjNWIyOTI2MzZjYTgzNDFlYjY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9lOrWmZz-H7Ow1QeXBFeIzY5Zq3v1OphtLk9pkHlrHs)
 
 ## Fonctionnalités
 
