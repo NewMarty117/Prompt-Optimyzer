@@ -1,0 +1,47 @@
+{
+    "SDXL": {
+        "description": "Modèle puissant de Stability AI, excelle dans le photoréalisme et la complexité des scènes. Préfère les descriptions détaillées et naturelles.",
+        "keywords_positive": ["photorealistic", "hyperdetailed", "8k", "cinematic lighting", "sharp focus"],
+        "keywords_negative": ["blurry", "cartoonish", "disfigured", "low quality", "jpeg artifacts"],
+        "syntax_tips": [
+            "Utiliser des phrases complètes plutôt que des listes de mots-clés purs.",
+            "Décrire l'éclairage, la composition, et l'ambiance.",
+            "Peut bénéficier de l'ajout de styles artistiques (ex: 'in the style of Van Gogh').",
+            "Les poids pour les mots-clés peuvent être utilisés avec parcimonie (ex: (word:1.2))."
+        ],
+        "recommended_aspect_ratios": ["1:1", "16:9", "9:16", "4:3", "3:4", "21:9", "9:21"]
+    },
+    "Stable Diffusion 1.5": {
+        "description": "Modèle plus ancien mais toujours populaire, bon pour une grande variété de styles. Moins exigeant sur la longueur du prompt que SDXL.",
+        "keywords_positive": ["detailed", "sharp", "trending on artstation", "concept art"],
+        "keywords_negative": ["ugly", "tiling", "poorly drawn hands", "mutation", "deformed"],
+        "syntax_tips": [
+            "Les mots-clés séparés par des virgules fonctionnent bien.",
+            "L'ordre des mots-clés peut avoir de l'importance (les premiers ont plus de poids).",
+            "Utiliser des styles d'artistes (ex: 'by Greg Rutkowski')."
+        ],
+        "recommended_aspect_ratios": ["1:1", "16:9", "9:16", "4:3", "3:4"]
+    },
+    "Flux 1.0 dev": {
+        "description": "Nouveau modèle de Black Forest Labs (acquis par Stability AI), conçu pour être rapide et efficace. La documentation est encore en développement.",
+        "keywords_positive": ["high quality", "clear image", "good composition"],
+        "keywords_negative": ["lowres", "blurry", "noise"],
+        "syntax_tips": [
+            "Documentation limitée, se concentrer sur des descriptions claires et concises.",
+            "Tester avec des prompts simples et augmenter la complexité progressivement."
+        ],
+        "recommended_aspect_ratios": ["1:1", "16:9"] 
+    },
+    "HiDream": {
+        "description": "Modèle de Tencent ARC, connu pour sa capacité à générer des images de haute qualité et esthétiquement plaisantes, notamment des portraits et des scènes animées/fantastiques.",
+        "keywords_positive": ["masterpiece", "best quality", "highly detailed", "anime style", "fantasy art"],
+        "keywords_negative": ["worst quality", "low quality", "normal quality", "watermark", "signature"],
+        "syntax_tips": [
+            "Les prompts peuvent être en anglais ou en chinois (traduction interne probable).",
+            "Souvent utilisé avec des modificateurs de style spécifiques à la plateforme.",
+            "Bon pour les styles artistiques et les personnages."
+        ],
+        "recommended_aspect_ratios": ["1:1", "3:4", "4:3", "9:16", "16:9"]
+    }
+}
+
