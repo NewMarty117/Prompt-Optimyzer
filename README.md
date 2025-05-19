@@ -83,7 +83,7 @@ Pour le traitement LLM local sans dépendre d'API externes, vous pouvez utiliser
    - Téléchargez depuis [lmstudio.ai](https://lmstudio.ai/)
    - Suivez les instructions d'installation
    
-   ![LmStudio](https://private-user-images.githubusercontent.com/188101812/444799973-8b95040f-8b87-4d76-b48f-cf10b00fb274.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1MDUzMTIsIm5iZiI6MTc0NzUwNTAxMiwicGF0aCI6Ii8xODgxMDE4MTIvNDQ0Nzk5OTczLThiOTUwNDBmLThiODctNGQ3Ni1iNDhmLWNmMTBiMDBmYjI3NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxN1QxODAzMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZGNhMDRmOTNkZWNlNWFkNjUwMDZiMDhkOTAzODgwYzVjNzA3OWNlNDhiNGI0Yjc0NTNhNjA4MGQ5MjBmMGUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.CXBXstiDszCjCCtiH6k5sXP4Tv8tt8Rs6PSQ2IPFWOU)
+   ![Image](https://github.com/user-attachments/assets/f2dea2f3-5911-4d95-a923-13e6fcd89f40)
 
 2. **Téléchargez un modèle compatible** :
    - Ouvrez LM Studio
